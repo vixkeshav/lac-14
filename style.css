@@ -39,7 +39,7 @@ html,body{
     height: 90%;
     width: 100%;
     background-color: black;
-    background: url(https://imgs.search.brave.com/o0FDrGYbejPLXkWHjy4G_kw0CxYQUl9gxsVlHXU_iKU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0LzRy/TVZuNEozaHNHUjJN/eVl0OWFLQlQuanBn);
+    background: url(https://www.apple.com/newsroom/images/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/article/Apple-iPhone-17-Pro-camera-close-up-250909_big.jpg.large_2x.jpg);
     background-position: top;
     background-size: cover;
     text-align: center;
@@ -49,14 +49,14 @@ html,body{
  #center h1{
     color: white;
     font-size: 60px;
-    font-weight: 70px;
-    font-family: apple;
+    font-weight: 90px;
+    /* font-family: apple; */
    
  }
  #center h3{
     color: white;
-    font-size: 20px;
-    font-weight: 20px;
+    font-size: 50px;
+    font-weight: 990px;
  }
 
  #link{
